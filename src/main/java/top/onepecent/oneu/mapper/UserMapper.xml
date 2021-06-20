@@ -9,4 +9,7 @@
         VALUES (#{account_id}, #{name}, #{token}, #{gmtCreate}, #{gmtModified});
     </insert>
 
+    <select id="findByToken" resultType="User">
+        select * from oneucommunity.user where token=#{token};
+    </select>
 </mapper>
