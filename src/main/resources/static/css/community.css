@@ -1,0 +1,118 @@
+body {
+    background-color: #66afe9;
+}
+
+.btn-publish {
+    float: right;
+    margin-bottom: 15px;
+}
+
+.media-object {
+    width: 40px;
+    height: 40px;
+}
+
+.media-body {
+    padding-top: 15px;
+}
+
+.text-desc {
+    font-size: 12px;
+    font-weight: normal;
+    color: #999999;
+}
+
+.main {
+    margin: 30px;
+}
+
+.profile .section {
+    margin-top: 15px;
+}
+
+.community-menu {
+    color: #999;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+
+.jumbotron {
+    margin: 50px;
+}
+
+.comment {
+    margin: 10px 0px;
+}
+
+.btn-comment {
+    float: right;
+    margin-bottom: 10px;
+}
+
+.comment-sp {
+    margin-top: 0px;
+}
+
+.menu {
+    color: #999999;
+    margin-top: 5px;
+}
+
+.iconn {
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.active {
+    color: #499ef3;
+}
+
+.iconn:hover {
+    color: #499ef3;
+}
+
+.comments {
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.sub-comments {
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 1px solid #eee;
+    padding-top: 15px;
+    margin-bottom: 15px;
+}
+
+.sub-comments-btn {
+    margin: 10px 0px;
+}
+
+.question-title {
+    margin-top: 25px;
+}
+
+.question-tag {
+    margin-right: 3px;
+}
+
+.question-related {
+    line-height: 20px;
+    font-size: 12px;
+    margin-left: 0;
+    list-style: none;
+    padding-left: 0;
+}
+
+.publish-tag-tab {
+    display: none;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.label-primary {
+    white-space: normal;
+    margin: 5px 5px;
+    display: inline-block;
+}
